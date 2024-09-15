@@ -1,11 +1,11 @@
-BOT:
-  TOKEN: 55***88  # Get your bot token from @BotFater
+BOT: AI_BayMax_bot
+  TOKEN: 7304651415:AAHJvc5FacF0UIfROjAWwalAY7C4lib8Ew4  # Get your bot token from @BotFater
 AI:
   VERSION: "2023-03-15-preview"
   TYPE: "azure"
-  MODEL: "your azure openai deployment name"
+  MODEL: "azure"
   BASE: "https://docs-test-001.openai.azure.com/"
-  TOKEN: "be***b63f"
+  TOKEN: "7304651415:AAHJvc5FacF0UIfROjAWwalAY7C4lib8Ew4"
 MYSQL:
   DBHOST: 127.0.0.1
   DBPORT: 3306
@@ -30,4 +30,4 @@ MAX_TOKEN:
   2: 1024
 
 TIME_SPAN: 3 #Minutes
-DEVELOPER_CHAT_ID: 467300857
+DEVELOPER_CHAT_ID: 5420271423
